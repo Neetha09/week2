@@ -7,7 +7,7 @@
     "lite": "lite-server",
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
- },
+  },
   "author": "Neetha Mohandas",
   "license": "ISC",
   "devDependencies": {
@@ -19,6 +19,3 @@
     "popper.js": "^1.16.1"
   }
 }
-
-
- 
